@@ -1,3 +1,3 @@
 # Домашние задания
 
-[Урок 12](https://lilya23chik.github.io/lesson_12//"12")
+[Урок 12](https://lilya23chik.github.io/lesson_12//)
